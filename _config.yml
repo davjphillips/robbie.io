@@ -1,9 +1,7 @@
-markdown: rdiscount
-pygments: true
 permalink:  /:year/:month/:title/
-url: http://robbie.io
+url: http://djp.me
 embedly:
-  api_key: 0b2d3820d15711e0b6354040d3dc5c07
-disqus_username: robbietrencheny
-twitter_name: Robbie
-facebook_uid: 503141088
+  api_key: b7733a10d3a711e085c84040d3dc5c07
+disqus_username: davjphillips
+twitter_name: davjphillips
+facebook_uid: 506608567

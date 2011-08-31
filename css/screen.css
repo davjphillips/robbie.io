@@ -284,7 +284,7 @@ background: rgba(164, 173, 183, .15);
 
 #networks li a:active {
 background: rgba(164, 173, 183, .25);
-padding: 10px 0 3px
+padding: 12px 0 3px
 }
 
 #networks li a img {
@@ -298,6 +298,10 @@ color: #fff;
 font: 18px/20px "Palatino", "Helvetica Neue", Helvetica, Arial, sans-serif;
 display: block;
 padding-top: 2px;
+}
+
+#networks li a:hover img {
+	margin-left: 10px;
 }
 
 /* lifestream */
